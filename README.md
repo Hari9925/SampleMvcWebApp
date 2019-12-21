@@ -1,5 +1,5 @@
-SampleMvcWebApp
-===============
+SampleMvcWebApplication
+=======================
 
 SampleMvcWebApp is a ASP.NET MVC web site designed to show number of useful methods for building enterprise
  grade web applications using ASP.NET MVC5 and Entity Framework 6. 
